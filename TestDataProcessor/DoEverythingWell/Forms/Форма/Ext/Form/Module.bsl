@@ -1,10 +1,10 @@
 ﻿
 &НаСервере
 Процедура DoEverythingWellНаСервере()
-	Message("It's OK now.");
+	Message("It`s OK now.");
 КонецПроцедуры
 
 &НаКлиенте
 Процедура DoEverythingWell(Команда)
-	DoEverythingWellНаСервере();
+	DoEverythingWellНаСeрвере();
 КонецПроцедуры
